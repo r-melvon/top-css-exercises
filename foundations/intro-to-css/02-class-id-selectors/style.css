@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd-numbered {
+    background-color: hsl(351, 100%, 86%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd-addition {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
